@@ -21,4 +21,5 @@ phases:
 artifacts:
   files:
     - '**/*'
+  discard-paths: no
   base-directory: dist # Replace with your build directory (e.g., dist, build)
