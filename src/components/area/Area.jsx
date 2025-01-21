@@ -135,7 +135,7 @@ const Area = (props) => {
                 columns={columns}
                 items={itemsValue}
                 onChange={onChange}
-                ButtonValue={config && config.includes(Permissions.CREATE_AREA)?"Add Area":""}
+                ButtonValue={config && config.includes(Permissions.CREATE_AREA)?"Add Areacscscscsd":""}
                 to="#/app/area/create"
                 totalRows={totalRecord}
                 isLoading={isLoading}
